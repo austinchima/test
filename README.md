@@ -45,3 +45,19 @@ Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. V
 **Donec venenatis vulputate lorem**. Morbi nec metus. Phasellus blandit leo ut odio. Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis. In auctor lobortis lacus. Quisque libero metus, condimentum nec, tempor a, commodo mollis, magna. Vestibulum ullamcorper mauris at ligula. Fusce fermentum. Nullam cursus lacinia erat. Praesent blandit laoreet nibh.
 
 Fusce convallis metus id felis luctus adipiscing. Pellentesque egestas, neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est. Quisque id mi. Ut tincidunt tincidunt erat. Etiam feugiat lorem non metus. Vestibulum dapibus nunc ac augue. Curabitur vestibulum aliquam leo. Praesent egestas neque eu enim. In hac habitasse platea dictumst. Fusce a quam. Etiam ut purus mattis mauris sodales aliquam.
+
+---
+
+# Random fact about humans
+
+**Humans are the only species known to blush — and no one fully knows why.**
+
+What makes this disturbing isn't the blushing itself, but what it implies: your body involuntarily **betrays your inner state to other people against your will.** You cannot stop it, suppress it, or fake it convincingly. The moment you feel shame, embarrassment, or guilt, your face broadcasts it automatically — a physiological signal you have zero conscious control over.
+
+Darwin was so unsettled by it that he called blushing *"the most peculiar and most human of all expressions."* He spent years trying to explain it and never fully could.
+
+Here's where it gets stranger. Blushing is triggered by **social self-awareness** — specifically the awareness that others are evaluating you. But the blush then *increases* the scrutiny you were trying to escape. It's a feedback loop your nervous system runs on you: you fear judgment, you blush, people notice, you fear judgment more, you blush harder.
+
+And it gets worse. Research suggests blushing actually **serves the people watching you**, not you. It signals to others that you're aware you violated a social norm and that you care — which paradoxically makes them trust and forgive you more. Your body essentially apologizes for you without your permission, using your face as the medium.
+
+You are, in part, a social signaling machine running processes you didn't authorize, in service of a group you can't fully opt out of. The blush isn't a malfunction. It's working exactly as intended — just not necessarily for *you*.
